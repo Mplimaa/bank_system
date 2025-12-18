@@ -26,16 +26,16 @@ O sistema permite:
 -  **Depositar valores**
   
 -  **Realizar saques**
-  - Limite de valor por saque
-  - Limite diário de saques
+  - **Limite de valor por saque**
+  - **Limite diário de saques**
     
 -  **Visualizar extrato**
-  - Histórico de depósitos e saques
-  - Saldo atual
-  - Listagem de usuários cadastrados
+  - **Histórico de depósitos e saques**
+  - **Saldo atual**
+  - **Listagem de usuários cadastrados**
     
 -  **Cadastrar usuários**
-  - Validação de CPF (não permite duplicados)
+  - **Validação de CPF (não permite duplicados)**
     
 - **Sair do sistema**
 
