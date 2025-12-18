@@ -24,7 +24,7 @@ O sistema funciona via **terminal**, utilizando um menu interativo.
 O sistema permite:
 
 -  **Depositar valores**
--  
+  
 -  **Realizar saques**
   - Limite de valor por saque
   - Limite diário de saques
